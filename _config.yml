@@ -1,6 +1,16 @@
 title: <p align="center">Adharsh Belagapu </p>
 logo: /assets/img/ID Card photo.jpg
-description: Certified Robotics Solution Designer, Senior Developer.
-show_downloads: true
-google_analytics:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/adharsh-belagapu/">LinkedIn</a> |
+  <a href="https://github.com/adharshb">GitHub</a>
+  
+  <br>   
+  I'm working on RPA - Blue Prism, Automation Anywhere.
+  Also working on POCs of Machine Learning, Data Science projects.
+  Currently working with TCS.
+  Worked with Accenture for 3 years.
+  <br>
+  </p>
+
 theme: jekyll-theme-minimal
